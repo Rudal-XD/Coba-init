@@ -18,4 +18,4 @@ def __init__(self):
 		 	exit()
 		 	
 if __name__=='__main__':
-	os.system('git pull');__init__(self)
+	os.system('git pull');__init__()
