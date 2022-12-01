@@ -1,7 +1,7 @@
 import os,sys,json,requests
 
 def __init__(self):
-	banner(f'1.open')
+	print(f'1.open')
 	
 	def pilih(self):
 		masuk = input('choose:')
