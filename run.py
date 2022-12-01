@@ -17,3 +17,5 @@ def __init__(self):
 		elif masuk in ['2']:
 		 	print()
 		 	exit()
+if __name__=='__main__':
+main()
